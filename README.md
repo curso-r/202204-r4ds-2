@@ -40,6 +40,7 @@ Fora do horário de aula ou monitoria:
 | [pratica/aula-1](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-1) |
 | [pratica/aula-2](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-2) |
 | [pratica/aula-3](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-3) |
+| [pratica/aula-4](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-4) |
 
 ## Trabalhos finais premiados
 
@@ -52,32 +53,40 @@ Referências extras relacionadas com o conteúdos das aulas, ou materiais
 que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
-| Aula | Tema             | Descrição                                                                                                                                  |
-|-----:|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-|    1 | Organização      | [Capítulo .RData e .Rhistory - Zen do R](https://curso-r.github.io/zen-do-r/rdata-rhistory.html)                                           |
-|    1 | Organização      | [Capítulo Rproj e diretórios - Zen do R](https://curso-r.github.io/zen-do-r/rproj-dir.html)                                                |
-|    1 | Organização      | [Capítulo Funções e dependências - Zen do R](https://curso-r.github.io/zen-do-r/funcoes-deps.html)                                         |
-|    1 | Organização      | [Capítulo Data e Data-raw - Zen do R](https://curso-r.github.io/zen-do-r/data-data-raw.html)                                               |
-|    1 | Git e GitHub     | [Capítulo Git e GitHub - Zen do R](https://curso-r.github.io/zen-do-r/git-github.html)                                                     |
-|    1 | Funções          | [Criando funções](https://r4ds.had.co.nz/functions.html)                                                                                   |
-|    1 | Git e GitHub     | [Slides sobre Git e GitHub - Beatriz Milz](https://beatrizmilz.github.io/2022-curso-de-verao-ime-usp-relatorios/slides/#git-e-github)      |
-|    2 | tidyr            | [Colinha do {dplyr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-transformation.pdf)                                 |
-|    2 | tidyr            | [Colinha do {tidyr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-import.pdf)                                         |
-|    2 | tidyr            | [Post sobre a mudança para pivot_longer() e pivot_wider()](https://blog.curso-r.com/posts/2020-08-13-pivotagem/)                           |
-|    2 | tidyr            | [Desafio 1: a resolução utiliza funções de pivotagem](https://discourse.curso-r.com/t/desafio-1-manipulando-a-base-de-filmes-do-imdb/1870) |
-|    2 | tidyr            | [Texto sobre tidyr por Garrick Aden-Buie](https://www.garrickadenbuie.com/project/tidyexplain/)                                            |
-|    2 | tidyr            | [Livro da Curso-R: Capítulo sobre tidyr](https://livro.curso-r.com/7-3-tidyr.html)                                                         |
-|    2 | dplyr            | [Livro da Curso-R: Capítulo sobre Dplyr 1.0](https://livro.curso-r.com/7-2-dplyr.html#dplyr-1.0)                                           |
-|    3 | Conversa/Dúvidas | [Cache no RMarkdown - RMarkdown com bastante conteúdo que demore para rodar](https://bookdown.org/yihui/rmarkdown-cookbook/cache.html)     |
-|    3 | Conversa/Dúvidas | [Função ggsave - salvar gráficos em imagens](https://ggplot2.tidyverse.org/reference/ggsave.html)                                          |
-|    3 | strings          | [Colinha do {stringr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/strings.pdf)                                           |
-|    3 | strings          | [Documentação das regex no R](https://stringi.gagolewski.com/rapi/about_search_regex.html)                                                 |
-|    3 | strings          | [Livro da Curso-R: Capítulo sobre stringr](https://livro.curso-r.com/7-4-o-pacote-stringr.html)                                            |
-|    3 | strings          | [Documentação do stringr](https://stringr.tidyverse.org/articles/stringr.html)                                                             |
-|    3 | Regex            | [Regex interativo](https://regex101.com/)                                                                                                  |
-|    3 | strings          | [Transliteração - removendo acentos](https://blog.curso-r.com/posts/2019-08-29-transliteracao/)                                            |
-|    3 | strings          | [Lista de caracteres em Unicode](https://en.wikipedia.org/wiki/List_of_Unicode_characters)                                                 |
-|    3 | Conversa/Dúvidas | [Fontes no Windows](https://github.com/wch/extrafont)                                                                                      |
+| Aula | Tema             | Descrição                                                                                                                                      |
+|-----:|:-----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | Organização      | [Capítulo .RData e .Rhistory - Zen do R](https://curso-r.github.io/zen-do-r/rdata-rhistory.html)                                               |
+|    1 | Organização      | [Capítulo Rproj e diretórios - Zen do R](https://curso-r.github.io/zen-do-r/rproj-dir.html)                                                    |
+|    1 | Organização      | [Capítulo Funções e dependências - Zen do R](https://curso-r.github.io/zen-do-r/funcoes-deps.html)                                             |
+|    1 | Organização      | [Capítulo Data e Data-raw - Zen do R](https://curso-r.github.io/zen-do-r/data-data-raw.html)                                                   |
+|    1 | Git e GitHub     | [Capítulo Git e GitHub - Zen do R](https://curso-r.github.io/zen-do-r/git-github.html)                                                         |
+|    1 | Funções          | [Criando funções](https://r4ds.had.co.nz/functions.html)                                                                                       |
+|    1 | Git e GitHub     | [Slides sobre Git e GitHub - Beatriz Milz](https://beatrizmilz.github.io/2022-curso-de-verao-ime-usp-relatorios/slides/#git-e-github)          |
+|    2 | tidyr            | [Colinha do {dplyr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-transformation.pdf)                                     |
+|    2 | tidyr            | [Colinha do {tidyr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-import.pdf)                                             |
+|    2 | tidyr            | [Post sobre a mudança para pivot_longer() e pivot_wider()](https://blog.curso-r.com/posts/2020-08-13-pivotagem/)                               |
+|    2 | tidyr            | [Desafio 1: a resolução utiliza funções de pivotagem](https://discourse.curso-r.com/t/desafio-1-manipulando-a-base-de-filmes-do-imdb/1870)     |
+|    2 | tidyr            | [Texto sobre tidyr por Garrick Aden-Buie](https://www.garrickadenbuie.com/project/tidyexplain/)                                                |
+|    2 | tidyr            | [Livro da Curso-R: Capítulo sobre tidyr](https://livro.curso-r.com/7-3-tidyr.html)                                                             |
+|    2 | dplyr            | [Livro da Curso-R: Capítulo sobre Dplyr 1.0](https://livro.curso-r.com/7-2-dplyr.html#dplyr-1.0)                                               |
+|    3 | Conversa/Dúvidas | [Cache no RMarkdown - RMarkdown com bastante conteúdo que demore para rodar](https://bookdown.org/yihui/rmarkdown-cookbook/cache.html)         |
+|    3 | Conversa/Dúvidas | [Função ggsave - salvar gráficos em imagens](https://ggplot2.tidyverse.org/reference/ggsave.html)                                              |
+|    3 | strings          | [Colinha do {stringr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/strings.pdf)                                               |
+|    3 | strings          | [Documentação das regex no R](https://stringi.gagolewski.com/rapi/about_search_regex.html)                                                     |
+|    3 | strings          | [Livro da Curso-R: Capítulo sobre stringr](https://livro.curso-r.com/7-4-o-pacote-stringr.html)                                                |
+|    3 | strings          | [Documentação do stringr](https://stringr.tidyverse.org/articles/stringr.html)                                                                 |
+|    3 | Regex            | [Regex interativo](https://regex101.com/)                                                                                                      |
+|    3 | strings          | [Transliteração - removendo acentos](https://blog.curso-r.com/posts/2019-08-29-transliteracao/)                                                |
+|    3 | strings          | [Lista de caracteres em Unicode](https://en.wikipedia.org/wiki/List_of_Unicode_characters)                                                     |
+|    3 | Conversa/Dúvidas | [Fontes no Windows](https://github.com/wch/extrafont)                                                                                          |
+|    4 | lubridate        | [Colinha do {lubridate}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/lubridate.pdf)                                           |
+|    4 | forcats          | [Colinha do {forcats}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/factors.pdf)                                               |
+|    4 | lubridate        | [Códigos para abreviar datas](https://www.stat.berkeley.edu/~s133/dates.html)                                                                  |
+|    4 | lubridate        | [Mais exemplos de códigos para abreviar datas](https://rdrr.io/r/base/strptime.html)                                                           |
+|    4 | lubridate        | [Post no blog sobre o Lubridate](https://blog.curso-r.com/posts/2021-11-16.lubridate/)                                                         |
+|    4 | lubridate        | [Post no blog: texto por William Amorim, com dados de poluição do ar](https://blog.curso-r.com/posts/2018-06-18-poluicao-greve-caminhoneiros/) |
+|    4 | lubridate        | [Post no blog com exemplo de readr::parse_date()](Post%20no)                                                                                   |
+|    4 | forcats          | [Post no blog com exemplo de forcats::fct_reorder()](https://blog.curso-r.com/posts/2020-17-02-dicas-relatorios-r4ds1_graficos/)               |
 
 ## Redes sociais da Curso-R
 
