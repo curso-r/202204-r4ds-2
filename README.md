@@ -41,6 +41,7 @@ Fora do horário de aula ou monitoria:
 | [pratica/aula-2](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-2) |
 | [pratica/aula-3](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-3) |
 | [pratica/aula-4](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-4) |
+| [pratica/aula-5](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-5) |
 
 ## Trabalhos finais premiados
 
@@ -81,12 +82,20 @@ relacionadas com o conteúdo da aula).
 |    3 | Conversa/Dúvidas | [Fontes no Windows](https://github.com/wch/extrafont)                                                                                          |
 |    4 | lubridate        | [Colinha do {lubridate}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/lubridate.pdf)                                           |
 |    4 | forcats          | [Colinha do {forcats}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/factors.pdf)                                               |
+|    4 | lubridate        | [Livro da Curso-R: Capítulo sobre lubridate](https://livro.curso-r.com/7-5-o-pacote-lubridate.html)                                            |
+|    4 | forcats          | [Livro da Curso-R: Capítulo sobre forcats](https://livro.curso-r.com/7-6-forcats.html)                                                         |
 |    4 | lubridate        | [Códigos para abreviar datas](https://www.stat.berkeley.edu/~s133/dates.html)                                                                  |
 |    4 | lubridate        | [Mais exemplos de códigos para abreviar datas](https://rdrr.io/r/base/strptime.html)                                                           |
 |    4 | lubridate        | [Post no blog sobre o Lubridate](https://blog.curso-r.com/posts/2021-11-16.lubridate/)                                                         |
 |    4 | lubridate        | [Post no blog: texto por William Amorim, com dados de poluição do ar](https://blog.curso-r.com/posts/2018-06-18-poluicao-greve-caminhoneiros/) |
 |    4 | lubridate        | [Post no blog com exemplo de readr::parse_date()](Post%20no)                                                                                   |
 |    4 | forcats          | [Post no blog com exemplo de forcats::fct_reorder()](https://blog.curso-r.com/posts/2020-17-02-dicas-relatorios-r4ds1_graficos/)               |
+|    5 | purrr            | [A Magia de {purrr}](https://lente.dev/posts/magica-purrr/)                                                                                    |
+|    5 | purrr            | [Webinar de {purrr} avançado](https://www.youtube.com/watch?v=vb1lD9_AFcU)                                                                     |
+|    5 | purrr            | [Exemplos com {purrr}](https://lente.dev/advanced-purrr.pdf)                                                                                   |
+|    5 | purrr            | [Colinha do {purrr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/purrr.pdf)                                                   |
+|    5 | purrr            | [Tutorial de {purrr}](https://jennybc.github.io/purrr-tutorial/)                                                                               |
+|    5 | iteração         | [R for Data Science: Iteration](https://r4ds.had.co.nz/iteration.html)                                                                         |
 
 ## Redes sociais da Curso-R
 
