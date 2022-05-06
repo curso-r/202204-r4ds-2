@@ -42,6 +42,7 @@ Fora do horário de aula ou monitoria:
 | [pratica/aula-3](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-3) |
 | [pratica/aula-4](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-4) |
 | [pratica/aula-5](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-5) |
+| [pratica/aula-6](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-6) |
 
 ## Trabalhos finais premiados
 
@@ -96,6 +97,15 @@ relacionadas com o conteúdo da aula).
 |    5 | purrr            | [Colinha do {purrr}](https://raw.githubusercontent.com/rstudio/cheatsheets/master/purrr.pdf)                                                   |
 |    5 | purrr            | [Tutorial de {purrr}](https://jennybc.github.io/purrr-tutorial/)                                                                               |
 |    5 | iteração         | [R for Data Science: Iteration](https://r4ds.had.co.nz/iteration.html)                                                                         |
+|    6 | rlang            | [Anúncio do {rlang} 0.4](https://www.tidyverse.org/blog/2019/06/rlang-0-4-0/)                                                                  |
+|    6 | rlang            | [Interpolação no {rlang}](https://www.tidyverse.org/blog/2020/02/glue-strings-and-tidy-eval/)                                                  |
+|    6 | Manual           | [Programando com o {dplyr}](https://dplyr.tidyverse.org/articles/programming.html)                                                             |
+|    6 | Aprofundamento   | [Metaprogramação](https://adv-r.hadley.nz/metaprogramming.html)                                                                                |
+|    6 | rlang            | [{rlang} para Filhotes](https://blog.curso-r.com/posts/2021-07-27-rlang-para-filhotes)                                                         |
+|    6 | trabalho final   | [Post no blog: dicas para criar tabelas](https://blog.curso-r.com/posts/2020-12-03-dicas-relatorios-r4ds1_tabelas/)                            |
+|    6 | trabalho final   | [Post no blog: dicas de relatórios](https://blog.curso-r.com/posts/2021-03-15-dicas-relatorios-r4ds1_relatorios/)                              |
+|    6 | rmarkdown        | [Colinha de {rmarkdown}](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)                                          |
+|    6 | rmarkdown        | [Capítulo sobre RMarkdown](https://livro.curso-r.com/9-2-r-markdown.html)                                                                      |
 
 ## Redes sociais da Curso-R
 
