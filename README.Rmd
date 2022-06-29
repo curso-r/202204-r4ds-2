@@ -42,6 +42,27 @@ Fora do horário de aula ou monitoria:
 - perguntas sobre R, principalmente as que envolverem código, deverão ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 
+## Trabalhos finais premiados
+
+```{r echo=FALSE}
+nome_pasta <- "trabalhos_premiados"
+
+tibble::tibble(
+  script = CursoRopen:::list_github_files(params$turma, nome_pasta, ".html"),
+  link = paste0(
+    "https://curso-r.github.io/",
+    params$turma,
+    "/",
+    script
+  ),
+  trabalho = glue::glue("[{script}]({link})")
+) |> 
+  dplyr::select(trabalho) |> 
+  knitr::kable()
+```
+
+
+
 ## Slides
 
 ```{r}
@@ -80,25 +101,6 @@ knitr::kable(
 )
 ```
 
-
-## Trabalhos finais premiados
-
-```{r echo=FALSE}
-nome_pasta <- "trabalhos_premiados"
-
-tibble::tibble(
-  script = CursoRopen:::list_github_files(params$turma, nome_pasta, ".zip|.rar"),
-  link = paste0(
-    "https://github.com/curso-r/",
-    params$turma,
-    "/raw/master/",
-    script
-  ),
-  pasta_compactada = glue::glue("[{script}]({link})")
-) |> 
-  dplyr::select(pasta_compactada) |> 
-  knitr::kable()
-```
 
 
 

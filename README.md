@@ -21,6 +21,13 @@ Fora do horário de aula ou monitoria:
 -   perguntas sobre R, principalmente as que envolverem código, deverão
     ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
+## Trabalhos finais premiados
+
+| trabalho                                                                                                                     |
+|:-----------------------------------------------------------------------------------------------------------------------------|
+| [trabalhos_premiados/Laila_Viana.html](https://curso-r.github.io/202204-r4ds-2/trabalhos_premiados/Laila_Viana.html)         |
+| [trabalhos_premiados/Natalia_Freitas.html](https://curso-r.github.io/202204-r4ds-2/trabalhos_premiados/Natalia_Freitas.html) |
+
 ## Slides
 
 | slides                                                                                                  |
@@ -43,11 +50,6 @@ Fora do horário de aula ou monitoria:
 | [pratica/aula-4](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-4) |
 | [pratica/aula-5](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-5) |
 | [pratica/aula-6](https://github.com/curso-r/202204-r4ds-2/tree/main/pratica/aula-6) |
-
-## Trabalhos finais premiados
-
-| pasta_compactada |
-|:-----------------|
 
 ## Material extra
 
@@ -105,7 +107,6 @@ relacionadas com o conteúdo da aula).
 |    6 | trabalho final   | [Post no blog: dicas para criar tabelas](https://blog.curso-r.com/posts/2020-12-03-dicas-relatorios-r4ds1_tabelas/)                            |
 |    6 | trabalho final   | [Post no blog: dicas de relatórios](https://blog.curso-r.com/posts/2021-03-15-dicas-relatorios-r4ds1_relatorios/)                              |
 |    6 | rmarkdown        | [Colinha de {rmarkdown}](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)                                          |
-|    6 | rmarkdown        | [Capítulo sobre RMarkdown](https://livro.curso-r.com/9-2-r-markdown.html)                                                                      |
 
 ## Redes sociais da Curso-R
 
